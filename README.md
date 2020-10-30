@@ -8,7 +8,7 @@
 
 - [다음 실시간 검색어 크롤링](readme_img/daum_ranking.PNG)  
 
-  ![daum_ranking](C:\Users\jyung\Desktop\github\Crawling\readme_img\daum_ranking.PNG)
+  ![daum_ranking](readme_img/daum_ranking.PNG)
 
 - [이미지 크롤링]('https://github.com/musicjae/Crawling/blob/main/img_crawling.py')  
 
