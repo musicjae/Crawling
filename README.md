@@ -4,17 +4,17 @@
 
 - [네이버  실시간 검색어]('https://github.com/musicjae/Crawling/blob/main/naver_ranking_crawling.py')
 
-![naver_ranking_img](C:\Users\jyung\Desktop\naver_ranking_img.PNG)
+![naver_ranking_img](C:\Users\jyung\Desktop\github\Crawling\readme_img\naver_ranking_img.PNG)
 
 - [다음 실시간 검색어 크롤링]('https://github.com/musicjae/Crawling/blob/main/daum_ranking_crawling.py')  
 
-  ![daum_ranking](C:\Users\jyung\Desktop\daum_ranking.PNG)
+  ![daum_ranking](C:\Users\jyung\Desktop\github\Crawling\readme_img\daum_ranking.PNG)
 
 - [이미지 크롤링]('https://github.com/musicjae/Crawling/blob/main/img_crawling.py')  
 
-  ![flag](C:\Users\jyung\Desktop\flag.PNG)
+  
 
-
+![flag](C:\Users\jyung\Desktop\github\Crawling\readme_img\flag.PNG)
 
 참고:  
 
