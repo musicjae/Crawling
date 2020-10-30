@@ -4,9 +4,9 @@
 
 - [네이버  실시간 검색어]('https://github.com/musicjae/Crawling/blob/main/naver_ranking_crawling.py')
 
-![naver_ranking_img](C:\Users\jyung\Desktop\github\Crawling\readme_img\naver_ranking_img.PNG)
+![naver_ranking_img](readme_img/naver_ranking_img.PNG)
 
-- [다음 실시간 검색어 크롤링](readme_img/daum_ranking.PNG)  
+- [다음 실시간 검색어 크롤링]('https://github.com/musicjae/Crawling/blob/main/daum_ranking_crawling.py')  
 
   ![daum_ranking](readme_img/daum_ranking.PNG)
 
@@ -14,7 +14,7 @@
 
   
 
-![flag](C:\Users\jyung\Desktop\github\Crawling\readme_img\flag.PNG)
+![flag](readme_img/flag.PNG)
 
 참고:  
 
