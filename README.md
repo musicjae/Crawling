@@ -2,7 +2,7 @@
 
 # Crawling
 
-- [네이버  실시간 검색어](https://github.com/musicjae/Crawling/blob/main/naver_ranking_crawling.py)
+- [네이버  실시간 검색어 크롤링](https://github.com/musicjae/Crawling/blob/main/naver_ranking_crawling.py)
   
   
 ![naver_ranking_img](readme_img/naver_ranking_img.PNG)
