@@ -6,7 +6,7 @@
 
 ![naver_ranking_img](C:\Users\jyung\Desktop\github\Crawling\readme_img\naver_ranking_img.PNG)
 
-- [다음 실시간 검색어 크롤링]('https://github.com/musicjae/Crawling/blob/main/readme_img/daum_ranking.PNG')  
+- [다음 실시간 검색어 크롤링](https://github.com/musicjae/Crawling/blob/main/readme_img/daum_ranking.PNG)  
 
   ![daum_ranking](C:\Users\jyung\Desktop\github\Crawling\readme_img\daum_ranking.PNG)
 
